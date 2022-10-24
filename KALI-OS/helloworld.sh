@@ -1,1 +1,2 @@
 echo "HELLO WORLD"
+whoami
