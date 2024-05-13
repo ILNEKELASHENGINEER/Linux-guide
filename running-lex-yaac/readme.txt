@@ -1,10 +1,10 @@
 install the packages
 sudo apt-get update
-sudo apt-get intall flex
-sudo apt-get intall byacc
-sudo apt-get intall bison
-sudo apt-get intall bison++
-sudo apt-get intall byacc-j
+sudo apt-get install flex
+sudo apt-get install byacc
+sudo apt-get install bison
+sudo apt-get install bison++
+sudo apt-get install byacc-j
 
 RUN THE COMMANDS
 1. lex yac.l
