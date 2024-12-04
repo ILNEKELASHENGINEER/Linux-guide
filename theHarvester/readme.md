@@ -67,4 +67,7 @@ TheHarvester requires Python 3.11 or higher for some modules and features.
 **Credits & License**
 * theHarvester is developed and maintained by Christian Martorella.
 * Original project repository: https://github.com/laramies/theHarvester
-* i used theHarvester from laramies gist: https://gist.github.com/linuxbiekaisar
+* i followed the steps for theHarvester from laramies gist: https://gist.github.com/linuxbiekaisar
+
+![image](https://github.com/user-attachments/assets/cbeeb491-f962-427c-abcc-86e81c0906f7)
+
