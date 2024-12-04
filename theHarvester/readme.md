@@ -26,7 +26,7 @@ This tool can be used to search publicly available information across multiple s
 
 1. **Clone the repository:**
 
-   ```bash
+ ```bash
    git clone https://github.com/laramies/theHarvester
    cd theHarvester/
    ```
@@ -66,5 +66,5 @@ TheHarvester requires Python 3.11 or higher for some modules and features.
 
 **Credits & License**
 * theHarvester is developed and maintained by Christian Martorella.
-* Original project repository: 
-* i used theHarvester from laramies, https://gist.github.com/linuxbiekaisar
+* Original project repository: https://github.com/laramies/theHarvester
+* i used theHarvester from laramies gist: https://gist.github.com/linuxbiekaisar
